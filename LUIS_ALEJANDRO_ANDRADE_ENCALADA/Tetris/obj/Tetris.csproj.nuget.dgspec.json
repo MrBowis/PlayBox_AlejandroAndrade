@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\02ale\\Desktop\\Trabajos\\2 semestre\\OOP\\PlayBox\\PlayBox_7996-master\\LUIS_ALEJANDRO_ANDRADE_ENCALADA\\Tetris\\Tetris.csproj": {}
+    "C:\\Users\\02ale\\Desktop\\Trabajos\\2 semestre\\OOP\\PlayBox\\PlayBox_AlejandroAndrade\\LUIS_ALEJANDRO_ANDRADE_ENCALADA\\Tetris\\Tetris.csproj": {}
   },
   "projects": {
-    "C:\\Users\\02ale\\Desktop\\Trabajos\\2 semestre\\OOP\\PlayBox\\PlayBox_7996-master\\LUIS_ALEJANDRO_ANDRADE_ENCALADA\\Tetris\\Tetris.csproj": {
+    "C:\\Users\\02ale\\Desktop\\Trabajos\\2 semestre\\OOP\\PlayBox\\PlayBox_AlejandroAndrade\\LUIS_ALEJANDRO_ANDRADE_ENCALADA\\Tetris\\Tetris.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\02ale\\Desktop\\Trabajos\\2 semestre\\OOP\\PlayBox\\PlayBox_7996-master\\LUIS_ALEJANDRO_ANDRADE_ENCALADA\\Tetris\\Tetris.csproj",
+        "projectUniqueName": "C:\\Users\\02ale\\Desktop\\Trabajos\\2 semestre\\OOP\\PlayBox\\PlayBox_AlejandroAndrade\\LUIS_ALEJANDRO_ANDRADE_ENCALADA\\Tetris\\Tetris.csproj",
         "projectName": "Tetris",
-        "projectPath": "C:\\Users\\02ale\\Desktop\\Trabajos\\2 semestre\\OOP\\PlayBox\\PlayBox_7996-master\\LUIS_ALEJANDRO_ANDRADE_ENCALADA\\Tetris\\Tetris.csproj",
+        "projectPath": "C:\\Users\\02ale\\Desktop\\Trabajos\\2 semestre\\OOP\\PlayBox\\PlayBox_AlejandroAndrade\\LUIS_ALEJANDRO_ANDRADE_ENCALADA\\Tetris\\Tetris.csproj",
         "packagesPath": "C:\\Users\\02ale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\02ale\\Desktop\\Trabajos\\2 semestre\\OOP\\PlayBox\\PlayBox_7996-master\\LUIS_ALEJANDRO_ANDRADE_ENCALADA\\Tetris\\obj\\",
+        "outputPath": "C:\\Users\\02ale\\Desktop\\Trabajos\\2 semestre\\OOP\\PlayBox\\PlayBox_AlejandroAndrade\\LUIS_ALEJANDRO_ANDRADE_ENCALADA\\Tetris\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\02ale\\AppData\\Roaming\\NuGet\\NuGet.Config",

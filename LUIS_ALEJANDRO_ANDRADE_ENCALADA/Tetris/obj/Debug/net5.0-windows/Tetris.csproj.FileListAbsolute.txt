@@ -20,3 +20,47 @@ D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-wi
 D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
 D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
 D:\Usuarios\neortiz\Downloads\Tetrix\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.exe
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.deps.json
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.dll
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.AssemblyReference.cache
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.g.resources
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\refint\Tetris.dll
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox-main\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\bin\Debug\net5.0-windows\Tetris.exe
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\bin\Debug\net5.0-windows\Tetris.deps.json
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\bin\Debug\net5.0-windows\Tetris.dll
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.AssemblyReference.cache
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\Tetris.g.resources
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\refint\Tetris.dll
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+C:\Users\02ale\Desktop\Trabajos\2 semestre\OOP\PlayBox\PlayBox_AlejandroAndrade\LUIS_ALEJANDRO_ANDRADE_ENCALADA\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
